@@ -1,0 +1,4 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO (ALL fire mode)
+SUCCESS  # <- TORPEDO (ALL fire mode)
+SUCCESS  # <- TORPEDO (ALL fire mode)

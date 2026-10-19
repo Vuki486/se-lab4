@@ -1,0 +1,4 @@
+# Create a ship with primary torpedo always misfiring
+GT4500,1,1.0,1,0
+TORPEDO,SINGLE # misfiring first torpedo
+TORPEDO,SINGLE # should fire secondary torpedo

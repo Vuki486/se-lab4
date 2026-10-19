@@ -1,0 +1,4 @@
+# Create a ship with minimal amount of ammunition
+GT4500,1,0,1,0
+TORPEDO,ALL # firing both stores
+TORPEDO,ALL # firing both stores

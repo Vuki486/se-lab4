@@ -1,0 +1,5 @@
+# Create a ship with a somewhat filled primary store, and an empty secondary store
+GT4500,3,0,0,0
+TORPEDO,ALL # firing both guns, even though secondary is empty, should return SUCCESS
+TORPEDO,ALL # same
+TORPEDO,ALL # same
