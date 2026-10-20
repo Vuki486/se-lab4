@@ -1,0 +1,5 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO (SINGLE)
+SUCCESS  # <- TORPEDO (SINGLE)
+FAIL  # <- TORPEDO (SINGLE, both empty)
+Unknown firing mode: 'ERROR'  # <- TORPEDO (ERROR, attempting to default the switch case for FAIL return)
