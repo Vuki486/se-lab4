@@ -1,0 +1,4 @@
+# Creating a ship with 1 torpedo in each store to fire alternatively
+GT4500,1,0,1,0
+TORPEDO,SINGLE #firing primary
+TORPEDO,SINGLE #firing secondary

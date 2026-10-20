@@ -1,0 +1,5 @@
+# Create a ship with empty primary store, and somewhat stocked secondary store
+GT4500,0,0,3,0
+TORPEDO,SINGLE # firing secondary torpedoes
+TORPEDO,SINGLE # same
+TORPEDO,SINGLE # same
